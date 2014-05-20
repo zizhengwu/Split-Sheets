@@ -1,0 +1,17 @@
+bin
+.metadata
+.project
+.classpath
+*.prefs
+*.class
+eclimd.log
+
+*.docx
+
+*.pdf
+
+*.log
+
+*.jpg
+
+*.csv
